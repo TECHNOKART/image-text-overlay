@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "fileName": "demo1.png",
+            "filePath": "./input/demo1.png",
+            "outputPath": "./output/demo1.png",
+            "text1":"demo file 1",
+            "text2":"demo file 2",
+            "date":"10-06-2023",
+            "format":"mm/DD/yyyy"
+        },
+        {
+            "fileName": "demo1.png",
+            "filePath": "./input/demo1.png",
+            "outputPath": "./output/demo1.png",
+            "text1":"demo file 1",
+            "text2":"demo file 2",
+            "date":"10-06-2023",
+            "format":"mm/DD/yyyy"
+        }
+    ]
+}
